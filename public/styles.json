@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Kataster basic",
+    "style": "https://kataster.bev.gv.at/styles/kataster/style_basic.json"
+  },
+  {
+    "name": "Kataster classic",
+    "style": "https://kataster.bev.gv.at/styles/kataster/style_vermv.json"
+  }
+]
